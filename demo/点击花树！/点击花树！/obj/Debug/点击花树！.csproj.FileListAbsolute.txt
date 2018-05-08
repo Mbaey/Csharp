@@ -1,0 +1,9 @@
+D:\LI\vs\project\点击花树！\点击花树！\bin\Debug\点击花树！.exe.config
+D:\LI\vs\project\点击花树！\点击花树！\bin\Debug\点击花树！.exe
+D:\LI\vs\project\点击花树！\点击花树！\bin\Debug\点击花树！.pdb
+D:\LI\vs\project\点击花树！\点击花树！\obj\Debug\点击花树！.csprojResolveAssemblyReference.cache
+D:\LI\vs\project\点击花树！\点击花树！\obj\Debug\点击花树_.Properties.Resources.resources
+D:\LI\vs\project\点击花树！\点击花树！\obj\Debug\点击花树！.csproj.GenerateResource.Cache
+D:\LI\vs\project\点击花树！\点击花树！\obj\Debug\点击花树！.exe
+D:\LI\vs\project\点击花树！\点击花树！\obj\Debug\点击花树！.pdb
+D:\LI\vs\project\点击花树！\点击花树！\obj\Debug\点击花树_.点击.resources

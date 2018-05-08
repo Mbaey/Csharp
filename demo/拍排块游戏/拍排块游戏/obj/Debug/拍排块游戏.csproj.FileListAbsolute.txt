@@ -1,0 +1,9 @@
+D:\LI\vs\project\拍排块游戏\拍排块游戏\bin\Debug\拍排块游戏.exe.config
+D:\LI\vs\project\拍排块游戏\拍排块游戏\bin\Debug\拍排块游戏.exe
+D:\LI\vs\project\拍排块游戏\拍排块游戏\bin\Debug\拍排块游戏.pdb
+D:\LI\vs\project\拍排块游戏\拍排块游戏\obj\Debug\拍排块游戏.csprojResolveAssemblyReference.cache
+D:\LI\vs\project\拍排块游戏\拍排块游戏\obj\Debug\拍排块游戏.Form1.resources
+D:\LI\vs\project\拍排块游戏\拍排块游戏\obj\Debug\拍排块游戏.Properties.Resources.resources
+D:\LI\vs\project\拍排块游戏\拍排块游戏\obj\Debug\拍排块游戏.csproj.GenerateResource.Cache
+D:\LI\vs\project\拍排块游戏\拍排块游戏\obj\Debug\拍排块游戏.exe
+D:\LI\vs\project\拍排块游戏\拍排块游戏\obj\Debug\拍排块游戏.pdb

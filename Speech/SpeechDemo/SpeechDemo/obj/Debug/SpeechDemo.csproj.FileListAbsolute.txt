@@ -1,0 +1,8 @@
+F:\project\vs\SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csprojResolveAssemblyReference.cache
+F:\project\vs\SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.pdb
+F:\project\vs\SpeechDemo\SpeechDemo\bin\Debug\AipSdk.dll
+F:\project\vs\SpeechDemo\SpeechDemo\bin\Debug\Newtonsoft.Json.dll
+F:\project\vs\SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.pdb
+F:\project\vs\SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.exe.config
+F:\project\vs\SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.exe
+F:\project\vs\SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.exe

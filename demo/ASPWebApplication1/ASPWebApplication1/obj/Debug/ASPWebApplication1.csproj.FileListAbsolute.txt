@@ -1,0 +1,6 @@
+D:\LI\vs\project\ASPWebApplication1\ASPWebApplication1\bin\ASPWebApplication1.dll.config
+D:\LI\vs\project\ASPWebApplication1\ASPWebApplication1\bin\ASPWebApplication1.dll
+D:\LI\vs\project\ASPWebApplication1\ASPWebApplication1\bin\ASPWebApplication1.pdb
+D:\LI\vs\project\ASPWebApplication1\ASPWebApplication1\obj\Debug\ASPWebApplication1.csprojResolveAssemblyReference.cache
+D:\LI\vs\project\ASPWebApplication1\ASPWebApplication1\obj\Debug\ASPWebApplication1.dll
+D:\LI\vs\project\ASPWebApplication1\ASPWebApplication1\obj\Debug\ASPWebApplication1.pdb

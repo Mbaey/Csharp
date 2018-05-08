@@ -1,0 +1,9 @@
+D:\LI\vs\project\Draw同心圆\Draw同心圆\bin\Debug\Draw同心圆.exe.config
+D:\LI\vs\project\Draw同心圆\Draw同心圆\bin\Debug\Draw同心圆.exe
+D:\LI\vs\project\Draw同心圆\Draw同心圆\bin\Debug\Draw同心圆.pdb
+D:\LI\vs\project\Draw同心圆\Draw同心圆\obj\Debug\Draw同心圆.csprojResolveAssemblyReference.cache
+D:\LI\vs\project\Draw同心圆\Draw同心圆\obj\Debug\Draw同心圆.Form1.resources
+D:\LI\vs\project\Draw同心圆\Draw同心圆\obj\Debug\Draw同心圆.Properties.Resources.resources
+D:\LI\vs\project\Draw同心圆\Draw同心圆\obj\Debug\Draw同心圆.csproj.GenerateResource.Cache
+D:\LI\vs\project\Draw同心圆\Draw同心圆\obj\Debug\Draw同心圆.exe
+D:\LI\vs\project\Draw同心圆\Draw同心圆\obj\Debug\Draw同心圆.pdb

@@ -1,0 +1,6 @@
+D:\LI\vs\project\CrawlerDemo\CrawlerDemo\bin\Debug\CrawlerDemo.exe.config
+D:\LI\vs\project\CrawlerDemo\CrawlerDemo\bin\Debug\CrawlerDemo.exe
+D:\LI\vs\project\CrawlerDemo\CrawlerDemo\bin\Debug\CrawlerDemo.pdb
+D:\LI\vs\project\CrawlerDemo\CrawlerDemo\obj\Debug\CrawlerDemo.csprojResolveAssemblyReference.cache
+D:\LI\vs\project\CrawlerDemo\CrawlerDemo\obj\Debug\CrawlerDemo.exe
+D:\LI\vs\project\CrawlerDemo\CrawlerDemo\obj\Debug\CrawlerDemo.pdb

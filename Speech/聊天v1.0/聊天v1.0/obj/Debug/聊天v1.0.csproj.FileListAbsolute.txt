@@ -1,0 +1,8 @@
+D:\LI\vs\project\聊天v1.0\聊天v1.0\bin\Debug\聊天v1.0.exe.config
+D:\LI\vs\project\聊天v1.0\聊天v1.0\bin\Debug\聊天v1.0.exe
+D:\LI\vs\project\聊天v1.0\聊天v1.0\bin\Debug\聊天v1.0.pdb
+D:\LI\vs\project\聊天v1.0\聊天v1.0\obj\Debug\聊天v1.0.csprojResolveAssemblyReference.cache
+D:\LI\vs\project\聊天v1.0\聊天v1.0\obj\Debug\聊天v1.0.exe
+D:\LI\vs\project\聊天v1.0\聊天v1.0\obj\Debug\聊天v1.0.pdb
+D:\LI\vs\project\聊天v1.0\聊天v1.0\bin\Debug\Newtonsoft.Json.dll
+D:\LI\vs\project\聊天v1.0\聊天v1.0\bin\Debug\Newtonsoft.Json.xml
